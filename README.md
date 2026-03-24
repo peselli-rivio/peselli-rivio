@@ -1,4 +1,8 @@
-# PZL esteve aqui
+<h1 align="center">PZL esteve aqui</h1>
+
+<p align="center">
+  <img src="img/IMG_2390.jpg" alt="PZL" width="200"/>
+</p>
 
 > *"PZL" — abreviatura sagrada de **Peselli**, formada pelas letras que a língua comum não merece pronunciar por extenso.*
 
